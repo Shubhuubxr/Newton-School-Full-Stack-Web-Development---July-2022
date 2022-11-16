@@ -1,0 +1,27 @@
+**HTML**
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <header>
+            <h1>NAME--DAAL DENNA BSDK</h1>
+            </header>
+            <label>
+            <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEL0de62drGNw/profile-displayphoto-shrink_800_800/0/1656001087580?e=1672876800&v=beta&t=2TU5QYFgUWUBpjOKb98p8yn5odxmc-z4oShKWXpWF6Y">
+            </label>
+            <label>
+            <a href="https://www.linkedin.com/in/NAME-6424b9202/?originalSubdomain=in">linkedin</a>
+            </label>
+            <section id="skills">
+                <li>Gods knows</li>
+                <li>I Don't knows</li>
+            </section>
+            <section id="projects">
+                <ul>
+                    <li>ex sketch</li>
+                    <li>MS Dhoni Sketch</li>
+                </ul>
+            </section>
+    </body>
+</html>
